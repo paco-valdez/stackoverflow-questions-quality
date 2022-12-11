@@ -10,6 +10,8 @@ StackOverflow (SO) is a popular online platform for developers to ask and answer
 
 ## [Full Report](https://github.com/pacofvf/stackoverflow-questions-quality/blob/main/Francisco%20Valdez%20-%20Classifying%20Question%20Quality%20of%20StackOverflow%20-%20MIDS%20W266%20FALL%202022.pdf)
 
+## [Presentation - Slides](https://github.com/pacofvf/stackoverflow-questions-quality/blob/main/extras/Presentation%20-%20Classifying%20Question%20Quality%20of%20StackOverflow.pdf)
+
 ## Links to datasets
 - Full History 2008 to 2022 https://huggingface.co/datasets/pacovaldez/stackoverflow-questions
 - 2016 Only https://huggingface.co/datasets/pacovaldez/stackoverflow-questions-2016
